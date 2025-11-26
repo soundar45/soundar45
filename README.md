@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soundar45&label=Profile%20views&color=0e75b6&style=flat" alt="soundar45" /> </p>
 
-- 🌱 I’m currently learning **JAVA BACKEND**
+- 🌱 I’m  **JAVA BACKEND DEVELOPER**
 
 - 💬 Ask me about **SpringBoot**
 
