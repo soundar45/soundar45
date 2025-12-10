@@ -6,17 +6,17 @@
 - 🌱 I’m  **JAVA BACKEND DEVELOPER**
 
 - 💬 Ask me about **Core Java
-OOP Concepts
-RESTful APIs
-Spring Boot
-Git & GitHub
-JDBC
-MySQL
-MongoDB
-Debugging
-Collections Framework
-Multithreading
-Maven
+OOP Concepts,
+RESTful APIs,
+Spring Boot,
+Git & GitHub,
+JDBC,
+MySQL,
+MongoDB,
+Debugging,
+Collections Framework,
+Multithreading,
+Maven,
 Postman API Testing**
 
 - 📫 How to reach me **soundarapandian2000@gmail.com**
